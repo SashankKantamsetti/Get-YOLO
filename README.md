@@ -49,15 +49,15 @@ Get-YOLO is a reminder application that allows users to create reminders with sc
 
 The `schedule` field in reminders uses cron expressions to define the schedule. A cron expression is a string comprising five fields separated by spaces:
 
- # ┌────────────── second (optional)
- # │ ┌──────────── minute
- # │ │ ┌────────── hour
- # │ │ │ ┌──────── day of month
- # │ │ │ │ ┌────── month
- # │ │ │ │ │ ┌──── day of week
- # │ │ │ │ │ │
- # │ │ │ │ │ │
- # * * * * * *
+ #### ┌────────────── second (optional)
+ #### │ ┌──────────── minute
+ #### │ │ ┌────────── hour
+ #### │ │ │ ┌──────── day of month
+ #### │ │ │ │ ┌────── month
+ #### │ │ │ │ │ ┌──── day of week
+ #### │ │ │ │ │ │
+ #### │ │ │ │ │ │
+ #### * * * * * *
 
 
 
