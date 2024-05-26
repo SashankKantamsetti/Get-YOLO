@@ -57,7 +57,7 @@ The `schedule` field in reminders uses cron expressions to define the schedule. 
  #### │ │ │ │ │ ┌──── day of week
  #### │ │ │ │ │ │
  #### │ │ │ │ │ │
- #### * * * * * *
+ ## * * * * * *
 
 
 
